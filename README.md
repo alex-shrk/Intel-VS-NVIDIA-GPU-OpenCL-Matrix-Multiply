@@ -15,7 +15,7 @@
 **Сборка и запуск:**
 
 Для запуска вычислений на интегрированном видеопроцессоре используется реализация OpenCL для Intel GPU - _Beignet_ 
-(_https://cgit.freedesktop.org/beignet/_).
+(_https://www.freedesktop.org/wiki/Software/Beignet/_).
 Собираем, устанавливаем по инструкции из ссылки выше.
 
 Для запуска вычислений на видеопроцессоре NVIDIA используется _CUDA Toolkit_ 
@@ -82,7 +82,8 @@ The time of the program is measured. The number of launches can be changed. The 
 
 **Build and Run:**
 
-To run the calculations on an integrated video processor, use the OpenCL implementation for the Intel GPU -Beignet (https://cgit.freedesktop.org/beignet/).
+To run the calculations on an integrated video processor, use the OpenCL implementation for the Intel GPU - 
+Beignet (https://www.freedesktop.org/wiki/Software/Beignet/).
 We assemble, install according to the instructions from the link above.
 
 - The NVIDIA video processor uses the CUDA Toolkit to run the calculations.
